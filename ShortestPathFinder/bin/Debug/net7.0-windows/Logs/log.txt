@@ -1,0 +1,9 @@
+A*  (Manhattan distance)
+119,399,399,545
+
+A*  (Chebyshev distance)
+70,493,521,642
+
+A*  (Octile distance)
+70,422,540,685
+
